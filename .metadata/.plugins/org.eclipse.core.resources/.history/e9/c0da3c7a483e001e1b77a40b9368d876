@@ -1,0 +1,11 @@
+package com.poly.controller.admin;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+
+@WebServlet(urlPatterns = ("/admin/video"), name = "VideoControllerOfAdmin")
+public class VideoController extends HttpServlet{
+	
+	
+
+}

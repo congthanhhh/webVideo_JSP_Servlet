@@ -1,0 +1,9 @@
+INDEX VERSION 1.132
+E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3445694504.index
+\webVideoJ4\src\main\java
+E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3002838606.index
+\webVideoJ4\src\main\java
+E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4292093118.index
+\webVideoJ4\src\main\java
+E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1664098810.index
+\webVideoJ4\src\main\java

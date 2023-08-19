@@ -1,0 +1,65 @@
+2023-08-19 03:17:56,775 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.demo:webVideoJ4:0.0.1-SNAPSHOT @ E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\pom.xml.
+2023-08-19 03:18:00,233 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 03:18:00,234 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\main\resources
+2023-08-19 03:18:00,237 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 03:18:00,238 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\test\resources
+2023-08-19 04:07:32,259 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:07:32,260 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\main\resources
+2023-08-19 04:07:32,262 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:07:32,263 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\test\resources
+2023-08-19 04:11:29,835 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:11:29,836 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\main\resources
+2023-08-19 04:11:29,837 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:11:29,837 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\test\resources
+2023-08-19 04:13:23,433 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:13:23,433 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\main\resources
+2023-08-19 04:13:23,435 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:13:23,436 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\test\resources
+2023-08-19 04:17:29,397 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:17:29,397 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\main\resources
+2023-08-19 04:17:29,399 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:17:29,399 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\test\resources
+2023-08-19 04:17:45,279 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:17:45,280 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\main\resources
+2023-08-19 04:17:45,282 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:17:45,282 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\test\resources
+2023-08-19 04:18:54,648 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:18:54,648 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\main\resources
+2023-08-19 04:18:54,649 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:18:54,650 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\test\resources
+2023-08-19 04:19:46,027 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:19:46,027 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\main\resources
+2023-08-19 04:19:46,028 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:19:46,029 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\test\resources
+2023-08-19 04:20:13,545 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-08-19 04:20:13,834 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.demo:webVideoJ4:0.0.1-SNAPSHOT @ E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\pom.xml.
+2023-08-19 04:20:14,363 [Worker-44: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webVideoJ4/src/main/java
+2023-08-19 04:20:14,363 [Worker-44: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webVideoJ4/src/test/java
+2023-08-19 04:20:14,713 [Worker-44: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for webVideoJ4
+2023-08-19 04:20:14,811 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-08-19 04:20:15,130 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:20:15,131 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\main\resources
+2023-08-19 04:20:15,133 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:20:15,134 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\test\resources
+2023-08-19 04:20:15,134 [Worker-47: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of webVideoJ4
+2023-08-19 04:20:15,135 [Worker-47: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for webVideoJ4
+2023-08-19 04:20:54,333 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:20:54,333 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\main\resources
+2023-08-19 04:20:54,335 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:20:54,335 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\test\resources
+2023-08-19 04:23:04,264 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:23:04,264 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\main\resources
+2023-08-19 04:23:04,265 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:23:04,266 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\test\resources
+2023-08-19 04:28:26,877 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:28:26,878 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\main\resources
+2023-08-19 04:28:26,879 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:28:26,880 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\test\resources
+2023-08-19 04:31:23,727 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:31:23,727 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\main\resources
+2023-08-19 04:31:23,728 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:31:23,728 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\test\resources
+2023-08-19 04:32:52,298 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:32:52,299 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\main\resources
+2023-08-19 04:32:52,300 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-19 04:32:52,300 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\cloneGithub\cloneGit\DAJ4_JSP_Servlet\webVideoJ4\src\test\resources
